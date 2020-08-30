@@ -3,7 +3,7 @@
 import smtplib
 
 from_addr = "someone@somemail.com"
-to_addr = "yan.zaripov@gmail.com"
+to_addr = "xy@gmail.com"
 
 msg = "some msg"
 
