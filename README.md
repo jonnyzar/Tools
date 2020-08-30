@@ -1,9 +1,7 @@
-#Tools for solving problems 
+#Tools for solving ethical hacking and pentesting problems 
 
-Some good tools! Really 
+Use at your own risk and only on your own equipment that would not cause harm to your surroundings.
 
-... serious description follows once there is more stuff
-
-use on you own risk
+Author of this tools rejects any responsibility for any harm caused by inappopriate use of these tools.
 
 
